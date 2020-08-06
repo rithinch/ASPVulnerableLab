@@ -3,3 +3,18 @@ c:\users\windev\documents\visual studio 2012\Projects\ASPVulnerableLab\ASPVulner
 c:\users\windev\documents\visual studio 2012\Projects\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.dll
 c:\users\windev\documents\visual studio 2012\Projects\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.pdb
 C:\Users\WinDev\Documents\Visual Studio 2012\Projects\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.csprojResolveAssemblyReference.cache
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\ASPVulnerableLab.dll.config
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\ASPVulnerableLab.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\ASPVulnerableLab.pdb
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\EntityFramework.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\MongoDB.Bson.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\MongoDB.Driver.Core.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\MongoDB.Driver.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\EntityFramework.xml
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\MongoDB.Bson.xml
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\bin\MongoDB.Driver.xml
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.csprojAssemblyReference.cache
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.csproj.CoreCompileInputs.cache
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.csproj.CopyComplete
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.dll
+C:\Repos\ASPVulnerableLab\ASPVulnerableLab\obj\Debug\ASPVulnerableLab.pdb
